@@ -1,2 +1,9 @@
-# Model_Selection_in_Free_Fall
-Model selection analysis between free fall and air resistance models using AIC/BIC criteria, providing quantitative guidance for when to consider drag effects in introductory physics experiments.
+# Model Selection in Free Fall
+## When Should We Consider Air Resistance?
+
+Python code and data analysis for model selection between free fall and drag models (laminar and quadratic). Experimental datasets include tennis and styrofoam balls.
+
+## Requirements
+- numpy
+- matplotlib
+- scipy
